@@ -457,3 +457,148 @@
 2017-05-03 06:00:14,693 - com.pages.BasePageClass -INFO - open url: https://github.com/
 2017-05-03 06:00:28,995 - com.pages.BasePageClass -INFO - quit application
 2017-05-03 06:00:28,995 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:24:21,554 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:21,555 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:21,555 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:21,561 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:24:21,561 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:24:21,561 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:24:21,561 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:24:25,586 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (b1855efd-b671-8b4a-a860-0f71745e1294)
+2017-06-18 08:24:25,586 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (b1855efd-b671-8b4a-a860-0f71745e1294)
+2017-06-18 08:24:25,587 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:25,587 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:25,587 - com.testcases.WikiHomePageTest -DEBUG - News driver hashcode: 1497012717
+2017-06-18 08:24:25,587 - com.testcases.WikiHomePageTest -DEBUG - News driver hashcode: 1497012717
+2017-06-18 08:24:25,586 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (1aefd717-f050-cd4c-9221-323aecd824c7)
+2017-06-18 08:24:25,586 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (1aefd717-f050-cd4c-9221-323aecd824c7)
+2017-06-18 08:24:25,589 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:25,589 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:24:25,589 - com.testcases.WikiIndexPageTest -DEBUG - News driver hashcode: 1990377015
+2017-06-18 08:24:25,589 - com.testcases.WikiIndexPageTest -DEBUG - News driver hashcode: 1990377015
+2017-06-18 08:24:25,884 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:24:25,884 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:24:25,884 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:24:25,884 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:24:25,885 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:24:25,885 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:24:25,885 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:24:25,885 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:24:32,313 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:24:32,313 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:24:32,313 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org
+2017-06-18 08:24:32,313 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org
+2017-06-18 08:24:35,263 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:24:35,263 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:24:38,926 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:24:38,926 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:24:39,163 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082438.png
+2017-06-18 08:24:39,163 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082438.png
+2017-06-18 08:24:39,956 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:24:39,956 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:24:40,178 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082439.png
+2017-06-18 08:24:40,178 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082439.png
+2017-06-18 08:24:40,540 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:24:40,540 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:24:40,540 - com.pages.BasePageClass -INFO - open url: https://en.wikipedia.org/wiki/Main_Page
+2017-06-18 08:24:40,540 - com.pages.BasePageClass -INFO - open url: https://en.wikipedia.org/wiki/Main_Page
+2017-06-18 08:24:50,302 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:24:50,302 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:26:40,956 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:40,957 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:40,957 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:40,968 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:26:40,968 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:26:40,968 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:26:40,968 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-18 08:26:44,585 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (8e5ae919-90fb-b34a-8b86-341ff47b1a9f)
+2017-06-18 08:26:44,585 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (8e5ae919-90fb-b34a-8b86-341ff47b1a9f)
+2017-06-18 08:26:44,585 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (f6e3eb66-3722-8040-aa90-c147b14e16c4)
+2017-06-18 08:26:44,585 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (f6e3eb66-3722-8040-aa90-c147b14e16c4)
+2017-06-18 08:26:44,586 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:44,586 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:44,588 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:44,588 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-18 08:26:44,588 - com.testcases.WikiIndexPageTest -DEBUG - News driver hashcode: 1450835611
+2017-06-18 08:26:44,588 - com.testcases.WikiIndexPageTest -DEBUG - News driver hashcode: 1450835611
+2017-06-18 08:26:44,589 - com.testcases.WikiHomePageTest -DEBUG - News driver hashcode: 1134482240
+2017-06-18 08:26:44,589 - com.testcases.WikiHomePageTest -DEBUG - News driver hashcode: 1134482240
+2017-06-18 08:26:44,665 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:26:44,665 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:26:44,665 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:26:44,665 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:26:44,666 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:26:44,666 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:26:44,666 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:26:44,666 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-18 08:26:47,923 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:26:47,923 - com.testcases.WikiIndexPageTest -INFO - || Wiki Index page, thread : pool-1-thread-2
+2017-06-18 08:26:47,924 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org
+2017-06-18 08:26:47,924 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org
+2017-06-18 08:26:51,068 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:26:51,068 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:26:57,234 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:26:57,234 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:26:57,480 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082657.png
+2017-06-18 08:26:57,480 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082657.png
+2017-06-18 08:26:58,214 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:26:58,214 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: WikiHomePageTest_verifyDonateLink
+2017-06-18 08:26:58,459 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082658.png
+2017-06-18 08:26:58,459 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/WikiHomePageTest_verifyDonateLink_20170618082658.png
+2017-06-18 08:26:58,811 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:26:58,811 - com.testcases.WikiHomePageTest -INFO - || Wiki Index page, thread : pool-1-thread-1
+2017-06-18 08:26:58,812 - com.pages.BasePageClass -INFO - open url: https://en.wikipedia.org/wiki/Main_Page
+2017-06-18 08:26:58,812 - com.pages.BasePageClass -INFO - open url: https://en.wikipedia.org/wiki/Main_Page
+2017-06-18 08:27:08,452 - com.pages.BasePageClass -INFO - quit application
+2017-06-18 08:27:08,452 - com.pages.BasePageClass -INFO - quit application
+2017-06-30 09:48:38,150 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:38,151 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:38,151 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:38,166 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-30 09:48:38,166 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-30 09:48:38,166 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-30 09:48:38,166 - com.helper.DriverFactory -INFO - MAC: FF initialized
+2017-06-30 09:48:42,284 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (005fe0cd-c682-bf41-95e6-18692d45242c)
+2017-06-30 09:48:42,284 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (005fe0cd-c682-bf41-95e6-18692d45242c)
+2017-06-30 09:48:42,287 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:42,287 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:42,288 - com.testcases.HomePageTests -DEBUG - Home page driver hashcode: 1978745753
+2017-06-30 09:48:42,288 - com.testcases.HomePageTests -DEBUG - Home page driver hashcode: 1978745753
+2017-06-30 09:48:42,401 - com.testcases.HomePageTests -INFO - || Home Page Test 1, thread: pool-1-thread-1
+2017-06-30 09:48:42,401 - com.testcases.HomePageTests -INFO - || Home Page Test 1, thread: pool-1-thread-1
+2017-06-30 09:48:42,402 - com.pages.BasePageClass -INFO - open url: https://book2.spicejet.com/
+2017-06-30 09:48:42,402 - com.pages.BasePageClass -INFO - open url: https://book2.spicejet.com/
+2017-06-30 09:48:42,477 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (0227fc8b-4e17-844a-9a26-5ccf781e3571)
+2017-06-30 09:48:42,477 - com.pages.BasePageClass -DEBUG - driver has been initialized as:  FirefoxDriver: firefox on ANY (0227fc8b-4e17-844a-9a26-5ccf781e3571)
+2017-06-30 09:48:42,477 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:42,477 - com.pages.BasePageClass -INFO - fetched all properties
+2017-06-30 09:48:42,478 - com.testcases.NewsTests -DEBUG - News driver hashcode: 1861635256
+2017-06-30 09:48:42,478 - com.testcases.NewsTests -DEBUG - News driver hashcode: 1861635256
+2017-06-30 09:48:42,488 - com.testcases.NewsTests -INFO - || News Page Test 1, thread : pool-1-thread-2
+2017-06-30 09:48:42,488 - com.testcases.NewsTests -INFO - || News Page Test 1, thread : pool-1-thread-2
+2017-06-30 09:48:42,488 - com.pages.BasePageClass -INFO - open url: https://www.bing.com
+2017-06-30 09:48:42,488 - com.pages.BasePageClass -INFO - open url: https://www.bing.com
+2017-06-30 09:48:46,241 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_AAA
+2017-06-30 09:48:46,241 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_AAA
+2017-06-30 09:48:46,614 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_AAA_20170630094846.png
+2017-06-30 09:48:46,614 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_AAA_20170630094846.png
+2017-06-30 09:48:47,598 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-30 09:48:47,598 - com.pages.BasePageClass -INFO - open url: https://www.wikipedia.org/
+2017-06-30 09:48:49,349 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_BBB
+2017-06-30 09:48:49,349 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_BBB
+2017-06-30 09:48:49,536 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_BBB_20170630094849.png
+2017-06-30 09:48:49,536 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_BBB_20170630094849.png
+2017-06-30 09:48:51,907 - com.testcases.NewsTests -INFO - || News Page Test 2, thread : pool-1-thread-2
+2017-06-30 09:48:51,907 - com.testcases.NewsTests -INFO - || News Page Test 2, thread : pool-1-thread-2
+2017-06-30 09:48:51,908 - com.pages.BasePageClass -INFO - open url: http://www.msn.com/en-in/
+2017-06-30 09:48:51,908 - com.pages.BasePageClass -INFO - open url: http://www.msn.com/en-in/
+2017-06-30 09:48:53,601 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_verifyNews2
+2017-06-30 09:48:53,601 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_verifyNews2
+2017-06-30 09:48:54,283 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_verifyNews2_20170630094853.png
+2017-06-30 09:48:54,283 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_verifyNews2_20170630094853.png
+2017-06-30 09:48:55,099 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_verifyNews2
+2017-06-30 09:48:55,099 - com.pages.BasePageClass -INFO - taking screenshot for failed test case: NewsTests_verifyNews2
+2017-06-30 09:48:55,523 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_verifyNews2_20170630094855.png
+2017-06-30 09:48:55,523 - com.pages.BasePageClass -INFO - screenshot captured at: ./src/test/resources/screenshots/NewsTests_verifyNews2_20170630094855.png
+2017-06-30 09:48:56,011 - com.pages.BasePageClass -INFO - quit application
+2017-06-30 09:48:56,011 - com.pages.BasePageClass -INFO - quit application
